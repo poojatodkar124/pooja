@@ -1,7 +1,3 @@
-welcome to mozilla club
-demo of git
-pooja todkar
-
 #include<stdio.h>
 
 int main()
